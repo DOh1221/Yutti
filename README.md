@@ -1,6 +1,6 @@
 # Yutti
 ![](/img/banner.png)
-## What's Project Poseidon?
+## What's Yutti?
 **A CraftBukkit CB1060 fork for MCPE 0.11.<br>**
 
 Discord: https://discord.gg/9qPDR82CwJ
